@@ -13,7 +13,6 @@ for x in range(n):
 
 print(dict)
 
+print()
 
-search = int(input("Enter The Roll For Search :"))
-for y in dict:
-    if search == dict.items():
+

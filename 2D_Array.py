@@ -6,4 +6,5 @@ array1 = [
 
 ]
 
-print(array1)
+#print(array1)
+print(array1[2][1])
